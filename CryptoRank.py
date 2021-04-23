@@ -1,4 +1,4 @@
-import requests,csv,json
+import requests,json
 import pandas as pd
 
 cryps = 50 #the number of cryptocurrencies to display
